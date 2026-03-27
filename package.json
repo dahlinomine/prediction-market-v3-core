@@ -1,0 +1,10 @@
+{
+  "name": "prediction-market-v3-core",
+  "version": "0.1.0",
+  "description": "Experimental high-throughput market protocol with off-chain matching",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test"
+  },
+  "license": "MIT"
+}
